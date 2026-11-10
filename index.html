@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>GL Fencing Schedule 2026–27</title>
+  <meta name="description" content="Governor Livingston High School fencing: 2026–27 dual meets, tournaments, directions and head-to-head history.">
+  <meta name="theme-color" content="#0b2149">
+  <link rel="icon" href="assets/logos/governor-livingston-athletics.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Barlow:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="top">
+    <div class="wrap top-inner">
+      <a class="brand" href="#top">
+        <span class="brand-logo"><img src="assets/logos/governor-livingston-athletics.png" alt=""></span>
+        <span>
+          <strong>Governor Livingston Fencing</strong>
+          <small>Highlanders · <span id="season-label"></span> season</small>
+        </span>
+      </a>
+      <nav aria-label="Sections">
+        <a href="#schedule">Schedule</a>
+        <a href="#map-section">Map</a>
+        <a href="#history">History</a>
+        <a href="#primer">Fencing 101</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="top">
+    <section class="hero">
+      <div class="wrap hero-grid">
+        <div id="next-up" class="next"></div>
+        <div id="season-stats" class="stats"></div>
+      </div>
+    </section>
+
+    <section id="schedule" class="wrap section">
+      <div class="section-head">
+        <div>
+          <h2>Season schedule</h2>
+          <p class="sub">Boys and girls fence together at every dual meet. Tap a row for directions and past results.</p>
+        </div>
+        <button id="ics-all" class="btn ghost" type="button">Add all to calendar</button>
+      </div>
+      <div id="filters" class="filters" role="group" aria-label="Filter schedule"></div>
+      <div id="schedule-list"></div>
+      <p class="fine">Schedule snapshot from <span id="snapshot"></span>. Competition schedule is subject to change; home meets are at the GLHS Red Gym unless announced otherwise.</p>
+    </section>
+
+    <section id="map-section" class="section alt">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <h2>Where we fence</h2>
+            <p class="sub">Tap a pin for the address, meet dates and directions.</p>
+          </div>
+          <ul class="legend">
+            <li><span class="dot home"></span>Home</li>
+            <li><span class="dot away"></span>Away meet</li>
+            <li><span class="dot visitor"></span>Opponent visiting GL</li>
+            <li><span class="dot tourney"></span>Tournament venue</li>
+          </ul>
+        </div>
+        <div id="map" aria-label="Map of schools and tournament venues"></div>
+      </div>
+    </section>
+
+    <section id="history" class="wrap section">
+      <div class="section-head">
+        <div>
+          <h2>The last three seasons</h2>
+          <p class="sub">Dual-meet records and state team tournament results, from NJ.com.</p>
+        </div>
+      </div>
+      <div id="seasons" class="seasons"></div>
+    </section>
+
+    <section id="primer" class="section alt">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <h2>Fencing 101 for parents</h2>
+            <p class="sub">What you are watching at a high school dual meet.</p>
+          </div>
+        </div>
+        <div class="primer">
+          <article>
+            <h3>27 bouts, first to 14</h3>
+            <p>A dual meet is 27 short bouts: nine in each weapon. Each school fields three fencers per weapon and everyone fences each of the other school's three. The first school to win 14 bouts wins the meet.</p>
+          </article>
+          <article>
+            <h3>Each bout is to 5 touches</h3>
+            <p>A bout ends when one fencer scores five touches or three minutes of fencing time run out. Electronic scoring boxes light up when a touch lands, and the referee decides who gets the point.</p>
+          </article>
+          <article>
+            <h3>Three weapons</h3>
+            <p><b>Épée:</b> the whole body is target and whoever hits first scores. <b>Foil:</b> only the torso counts, and "right of way" decides who scores. <b>Sabre:</b> everything above the waist, with cuts as well as thrusts. It is the fastest of the three.</p>
+          </article>
+          <article>
+            <h3>Watching a meet</h3>
+            <p>Several bouts run at once on separate strips, so pick a strip and follow it. It is fine to cheer between touches. A typical meet lasts about two hours.</p>
+          </article>
+          <article>
+            <h3>The postseason</h3>
+            <p>The Cetrulo (boys) and Santelli (girls) are giant all-day squad tournaments in January. In February the top 16 teams in each half of the state qualify for the NJSIAA team tournament, and the top-ranked individuals fence for state titles.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="foot">
+    <div class="wrap">
+      <p><strong>Live results:</strong> <a id="link-boys" href="#">GL boys on NJ.com</a> · <a id="link-girls" href="#">GL girls on NJ.com</a> · <a id="link-njsiaa" href="#">NJSIAA fencing</a></p>
+      <p>Unofficial schedule page made for GL fencing families. Past results are from NJ.com; tournament dates are from the NJSIAA 2026–27 regulations. School logos belong to their schools. Always confirm times and venues with the coaches or the GL athletics schedule.</p>
+    </div>
+  </footer>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="js/data.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

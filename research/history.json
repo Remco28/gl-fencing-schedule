@@ -1,0 +1,920 @@
+{
+  "sources": [
+    {
+      "name": "NJ.com High School Sports - Gov. Livingston boys fencing 2025-26 team page (schedule/scoreboard)",
+      "url": "https://highschoolsports.nj.com/school/berkeley-hts-gov-livingston/boysfencing/season/2025-2026",
+      "fetched": "2026-11-09"
+    },
+    {
+      "name": "NJ.com High School Sports - Gov. Livingston boys fencing 2024-25 team page (schedule/scoreboard)",
+      "url": "https://highschoolsports.nj.com/school/berkeley-hts-gov-livingston/boysfencing/season/2024-2025",
+      "fetched": "2026-11-09"
+    },
+    {
+      "name": "NJ.com High School Sports - Gov. Livingston boys fencing 2023-24 team page (schedule/scoreboard)",
+      "url": "https://highschoolsports.nj.com/school/berkeley-hts-gov-livingston/boysfencing/season/2023-2024",
+      "fetched": "2026-11-09"
+    },
+    {
+      "name": "NJ.com High School Sports - Gov. Livingston girls fencing 2025-26 team page (schedule/scoreboard)",
+      "url": "https://highschoolsports.nj.com/school/berkeley-hts-gov-livingston/girlsfencing/season/2025-2026",
+      "fetched": "2026-11-09"
+    },
+    {
+      "name": "NJ.com High School Sports - Gov. Livingston girls fencing 2024-25 team page (schedule/scoreboard)",
+      "url": "https://highschoolsports.nj.com/school/berkeley-hts-gov-livingston/girlsfencing/season/2024-2025",
+      "fetched": "2026-11-09"
+    },
+    {
+      "name": "NJ.com High School Sports - Gov. Livingston girls fencing 2023-24 team page (schedule/scoreboard)",
+      "url": "https://highschoolsports.nj.com/school/berkeley-hts-gov-livingston/girlsfencing/season/2023-2024",
+      "fetched": "2026-11-09"
+    },
+    {
+      "name": "NJ.com game page (score-orientation check)",
+      "url": "https://highschoolsports.nj.com/game/1093822",
+      "fetched": "2026-11-09"
+    },
+    {
+      "name": "NJ.com game page (18-10 score check)",
+      "url": "https://highschoolsports.nj.com/game/979490",
+      "fetched": "2026-11-09"
+    }
+  ],
+  "seasons": [
+    {
+      "season": "2025-26",
+      "gender": "boys",
+      "record": "10-6",
+      "meets": [
+        {
+          "date": "2025-12-16",
+          "opponent": "Montclair Kimberley",
+          "homeAway": "home",
+          "glScore": 16,
+          "oppScore": 11,
+          "result": "W",
+          "sourceUrl": "https://highschoolsports.nj.com/game/1065346"
+        },
+        {
+          "date": "2025-12-18",
+          "opponent": "Montclair",
+          "homeAway": "home",
+          "glScore": 18,
+          "oppScore": 9,
+          "result": "W",
+          "sourceUrl": "https://highschoolsports.nj.com/game/1088324"
+        },
+        {
+          "date": "2025-12-22",
+          "opponent": "Holmdel",
+          "homeAway": "away",
+          "glScore": 15,
+          "oppScore": 12,
+          "result": "W",
+          "sourceUrl": "https://highschoolsports.nj.com/game/1088209"
+        },
+        {
+          "date": "2026-01-05",
+          "opponent": "Watchung Hills",
+          "homeAway": "home",
+          "glScore": 12,
+          "oppScore": 15,
+          "result": "L",
+          "sourceUrl": "https://highschoolsports.nj.com/game/1065263"
+        },
+        {
+          "date": "2026-01-09",
+          "opponent": "West Essex",
+          "homeAway": "home",
+          "glScore": 22,
+          "oppScore": 5,
+          "result": "W",
+          "sourceUrl": "https://highschoolsports.nj.com/game/1090685"
+        },
+        {
+          "date": "2026-01-13",
+          "opponent": "West Orange",
+          "homeAway": "away",
+          "glScore": 22,
+          "oppScore": 5,
+          "result": "W",
+          "sourceUrl": "https://highschoolsports.nj.com/game/1065235"
+        },
+        {
+          "date": "2026-01-16",
+          "opponent": "Millburn",
+          "homeAway": "home",
+          "glScore": 13,
+          "oppScore": 14,
+          "result": "L",
+          "sourceUrl": "https://highschoolsports.nj.com/game/1065308"
+        },
+        {
+          "date": "2026-01-20",
+          "opponent": "Newark Academy",
+          "homeAway": "away",
+          "glScore": 13,
+          "oppScore": 14,
+          "result": "L",
+          "sourceUrl": "https://highschoolsports.nj.com/game/1065174"
+        },
+        {
+          "date": "2026-01-22",
+          "opponent": "Mendham",
+          "homeAway": "away",
+          "glScore": 19,
+          "oppScore": 8,
+          "result": "W",
+          "sourceUrl": "https://highschoolsports.nj.com/game/1065353"
+        },
+        {
+          "date": "2026-01-28",
+          "opponent": "Livingston",
+          "homeAway": "home",
+          "glScore": 17,
+          "oppScore": 10,
+          "result": "W",
+          "sourceUrl": "https://highschoolsports.nj.com/game/1065302"
+        },
+        {
+          "date": "2026-02-02",
+          "opponent": "Ridge",
+          "homeAway": "home",
+          "glScore": 16,
+          "oppScore": 11,
+          "result": "W",
+          "sourceUrl": "https://highschoolsports.nj.com/game/1094021"
+        },
+        {
+          "date": "2026-02-03",
+          "opponent": "Columbia",
+          "homeAway": "away",
+          "glScore": 7,
+          "oppScore": 20,
+          "result": "L",
+          "sourceUrl": "https://highschoolsports.nj.com/game/1093822"
+        },
+        {
+          "date": "2026-02-06",
+          "opponent": "Chatham",
+          "homeAway": "home",
+          "glScore": 14,
+          "oppScore": 13,
+          "result": "W",
+          "sourceUrl": "https://highschoolsports.nj.com/game/1065280"
+        },
+        {
+          "date": "2026-02-10",
+          "opponent": "St. Benedict's",
+          "homeAway": "home",
+          "glScore": 10,
+          "oppScore": 17,
+          "result": "L",
+          "sourceUrl": "https://highschoolsports.nj.com/game/1095815",
+          "note": "2026 NJSIAA Fencing - South, State Tournament, First Round"
+        },
+        {
+          "date": "2026-02-17",
+          "opponent": "Voorhees",
+          "homeAway": "away",
+          "glScore": 10,
+          "oppScore": 17,
+          "result": "L",
+          "sourceUrl": "https://highschoolsports.nj.com/game/1093686"
+        },
+        {
+          "date": "2026-02-26",
+          "opponent": "Bernards",
+          "homeAway": "away",
+          "glScore": 22,
+          "oppScore": 5,
+          "result": "W",
+          "sourceUrl": "https://highschoolsports.nj.com/game/1065279"
+        }
+      ],
+      "tournaments": [
+        {
+          "date": "2026-02-10",
+          "name": "2026 NJSIAA Fencing - South, State Tournament, First Round",
+          "result": "L 10-17 vs St. Benedict's (home)",
+          "sourceUrl": "https://highschoolsports.nj.com/game/1095815"
+        }
+      ]
+    },
+    {
+      "season": "2024-25",
+      "gender": "boys",
+      "record": "8-4",
+      "meets": [
+        {
+          "date": "2024-12-17",
+          "opponent": "Montclair Kimberley",
+          "homeAway": "away",
+          "glScore": 6,
+          "oppScore": 21,
+          "result": "L",
+          "sourceUrl": "https://highschoolsports.nj.com/game/979561"
+        },
+        {
+          "date": "2025-01-07",
+          "opponent": "Millburn",
+          "homeAway": "home",
+          "glScore": 15,
+          "oppScore": 12,
+          "result": "W",
+          "sourceUrl": "https://highschoolsports.nj.com/game/979491"
+        },
+        {
+          "date": "2025-01-17",
+          "opponent": "West Orange",
+          "homeAway": "away",
+          "glScore": 16,
+          "oppScore": 11,
+          "result": "W",
+          "sourceUrl": "https://highschoolsports.nj.com/game/979397"
+        },
+        {
+          "date": "2025-01-21",
+          "opponent": "Newark Academy",
+          "homeAway": "home",
+          "glScore": 19,
+          "oppScore": 8,
+          "result": "W",
+          "sourceUrl": "https://highschoolsports.nj.com/game/979297"
+        },
+        {
+          "date": "2025-01-23",
+          "opponent": "Mendham",
+          "homeAway": "away",
+          "glScore": 18,
+          "oppScore": 10,
+          "result": "W",
+          "sourceUrl": "https://highschoolsports.nj.com/game/979490",
+          "note": "Score as published by NJ.com; bouts total 28, not 27."
+        },
+        {
+          "date": "2025-01-28",
+          "opponent": "Oratory",
+          "homeAway": "home",
+          "glScore": 15,
+          "oppScore": 12,
+          "result": "W",
+          "sourceUrl": "https://highschoolsports.nj.com/game/979333"
+        },
+        {
+          "date": "2025-01-30",
+          "opponent": "Livingston",
+          "homeAway": "away",
+          "glScore": 14,
+          "oppScore": 13,
+          "result": "W",
+          "sourceUrl": "https://highschoolsports.nj.com/game/979515"
+        },
+        {
+          "date": "2025-02-04",
+          "opponent": "Columbia",
+          "homeAway": "home",
+          "glScore": 9,
+          "oppScore": 18,
+          "result": "L",
+          "sourceUrl": "https://highschoolsports.nj.com/game/979542"
+        },
+        {
+          "date": "2025-02-11",
+          "opponent": "McNair",
+          "homeAway": "home",
+          "glScore": 18,
+          "oppScore": 9,
+          "result": "W",
+          "sourceUrl": "https://highschoolsports.nj.com/game/979453"
+        },
+        {
+          "date": "2025-02-20",
+          "opponent": "Chatham",
+          "homeAway": "home",
+          "glScore": 13,
+          "oppScore": 14,
+          "result": "L",
+          "sourceUrl": "https://highschoolsports.nj.com/game/995071",
+          "note": "2025 NJSIAA Boys Fencing Team Tournament, First Round"
+        },
+        {
+          "date": "2025-02-21",
+          "opponent": "West Essex",
+          "homeAway": "home",
+          "glScore": 17,
+          "oppScore": 10,
+          "result": "W",
+          "sourceUrl": "https://highschoolsports.nj.com/game/991272"
+        },
+        {
+          "date": "2025-02-25",
+          "opponent": "Ramapo",
+          "homeAway": "away",
+          "glScore": 11,
+          "oppScore": 16,
+          "result": "L",
+          "sourceUrl": "https://highschoolsports.nj.com/game/1009421"
+        }
+      ],
+      "tournaments": [
+        {
+          "date": "2025-02-20",
+          "name": "2025 NJSIAA Boys Fencing Team Tournament, First Round",
+          "result": "L 13-14 vs Chatham (home)",
+          "sourceUrl": "https://highschoolsports.nj.com/game/995071"
+        }
+      ]
+    },
+    {
+      "season": "2023-24",
+      "gender": "boys",
+      "record": "8-7",
+      "meets": [
+        {
+          "date": "2023-12-16",
+          "opponent": "St. Benedict's",
+          "homeAway": "away",
+          "glScore": 17,
+          "oppScore": 10,
+          "result": "W",
+          "sourceUrl": "https://highschoolsports.nj.com/game/887650"
+        },
+        {
+          "date": "2023-12-16",
+          "opponent": "McNair",
+          "homeAway": "away",
+          "glScore": 20,
+          "oppScore": 7,
+          "result": "W",
+          "sourceUrl": "https://highschoolsports.nj.com/game/887711"
+        },
+        {
+          "date": "2023-12-21",
+          "opponent": "St. Peter's Prep",
+          "homeAway": "home",
+          "glScore": 9,
+          "oppScore": 18,
+          "result": "L",
+          "sourceUrl": "https://highschoolsports.nj.com/game/887667"
+        },
+        {
+          "date": "2024-01-02",
+          "opponent": "Montclair",
+          "homeAway": "away",
+          "glScore": 13,
+          "oppScore": 14,
+          "result": "L",
+          "sourceUrl": "https://highschoolsports.nj.com/game/887719"
+        },
+        {
+          "date": "2024-01-05",
+          "opponent": "Livingston",
+          "homeAway": "home",
+          "glScore": 9,
+          "oppScore": 18,
+          "result": "L",
+          "sourceUrl": "https://highschoolsports.nj.com/game/887718"
+        },
+        {
+          "date": "2024-01-08",
+          "opponent": "Bernards",
+          "homeAway": "away",
+          "glScore": 14,
+          "oppScore": 13,
+          "result": "W",
+          "sourceUrl": "https://highschoolsports.nj.com/game/887739"
+        },
+        {
+          "date": "2024-01-11",
+          "opponent": "Montclair Kimberley",
+          "homeAway": "away",
+          "glScore": 6,
+          "oppScore": 21,
+          "result": "L",
+          "sourceUrl": "https://highschoolsports.nj.com/game/887777"
+        },
+        {
+          "date": "2024-01-23",
+          "opponent": "Morris Hills",
+          "homeAway": "home",
+          "glScore": 17,
+          "oppScore": 10,
+          "result": "W",
+          "sourceUrl": "https://highschoolsports.nj.com/game/887565"
+        },
+        {
+          "date": "2024-01-25",
+          "opponent": "West Orange",
+          "homeAway": "away",
+          "glScore": 19,
+          "oppScore": 8,
+          "result": "W",
+          "sourceUrl": "https://highschoolsports.nj.com/game/887643"
+        },
+        {
+          "date": "2024-01-26",
+          "opponent": "West Essex",
+          "homeAway": "home",
+          "glScore": 12,
+          "oppScore": 15,
+          "result": "L",
+          "sourceUrl": "https://highschoolsports.nj.com/game/887609"
+        },
+        {
+          "date": "2024-01-29",
+          "opponent": "Millburn",
+          "homeAway": "away",
+          "glScore": 9,
+          "oppScore": 18,
+          "result": "L",
+          "sourceUrl": "https://highschoolsports.nj.com/game/887716"
+        },
+        {
+          "date": "2024-02-07",
+          "opponent": "Newark Academy",
+          "homeAway": "away",
+          "glScore": 14,
+          "oppScore": 13,
+          "result": "W",
+          "sourceUrl": "https://highschoolsports.nj.com/game/887594"
+        },
+        {
+          "date": "2024-02-08",
+          "opponent": "Oratory",
+          "homeAway": "away",
+          "glScore": 13,
+          "oppScore": 14,
+          "result": "L",
+          "sourceUrl": "https://highschoolsports.nj.com/game/887549"
+        },
+        {
+          "date": "2024-02-15",
+          "opponent": "Mendham",
+          "homeAway": "home",
+          "glScore": 15,
+          "oppScore": 12,
+          "result": "W",
+          "sourceUrl": "https://highschoolsports.nj.com/game/887714"
+        },
+        {
+          "date": "2024-02-23",
+          "opponent": "Columbia",
+          "homeAway": "home",
+          "glScore": 15,
+          "oppScore": 12,
+          "result": "W",
+          "sourceUrl": "https://highschoolsports.nj.com/game/887717"
+        }
+      ],
+      "tournaments": []
+    },
+    {
+      "season": "2025-26",
+      "gender": "girls",
+      "record": "6-11",
+      "meets": [
+        {
+          "date": "2025-12-16",
+          "opponent": "Montclair Kimberley",
+          "homeAway": "home",
+          "glScore": 6,
+          "oppScore": 21,
+          "result": "L",
+          "sourceUrl": "https://highschoolsports.nj.com/game/1088019"
+        },
+        {
+          "date": "2025-12-18",
+          "opponent": "Montclair",
+          "homeAway": "home",
+          "glScore": 16,
+          "oppScore": 11,
+          "result": "W",
+          "sourceUrl": "https://highschoolsports.nj.com/game/1088322"
+        },
+        {
+          "date": "2025-12-22",
+          "opponent": "Holmdel",
+          "homeAway": "away",
+          "glScore": 12,
+          "oppScore": 15,
+          "result": "L",
+          "sourceUrl": "https://highschoolsports.nj.com/game/1088210"
+        },
+        {
+          "date": "2026-01-05",
+          "opponent": "Watchung Hills",
+          "homeAway": "home",
+          "glScore": 14,
+          "oppScore": 13,
+          "result": "W",
+          "sourceUrl": "https://highschoolsports.nj.com/game/1090066"
+        },
+        {
+          "date": "2026-01-09",
+          "opponent": "West Essex",
+          "homeAway": "home",
+          "glScore": 19,
+          "oppScore": 8,
+          "result": "W",
+          "sourceUrl": "https://highschoolsports.nj.com/game/1090686"
+        },
+        {
+          "date": "2026-01-13",
+          "opponent": "West Orange",
+          "homeAway": "away",
+          "glScore": 17,
+          "oppScore": 10,
+          "result": "W",
+          "sourceUrl": "https://highschoolsports.nj.com/game/1084034"
+        },
+        {
+          "date": "2026-01-16",
+          "opponent": "Millburn",
+          "homeAway": "home",
+          "glScore": 14,
+          "oppScore": 13,
+          "result": "W",
+          "sourceUrl": "https://highschoolsports.nj.com/game/1065016"
+        },
+        {
+          "date": "2026-01-20",
+          "opponent": "Newark Academy",
+          "homeAway": "away",
+          "glScore": 13,
+          "oppScore": 14,
+          "result": "L",
+          "sourceUrl": "https://highschoolsports.nj.com/game/1082241"
+        },
+        {
+          "date": "2026-01-22",
+          "opponent": "Mendham",
+          "homeAway": "home",
+          "glScore": 9,
+          "oppScore": 18,
+          "result": "L",
+          "sourceUrl": "https://highschoolsports.nj.com/game/1092164"
+        },
+        {
+          "date": "2026-01-27",
+          "opponent": "Kent Place",
+          "homeAway": "home",
+          "glScore": 12,
+          "oppScore": 15,
+          "result": "L",
+          "sourceUrl": "https://highschoolsports.nj.com/game/1093466"
+        },
+        {
+          "date": "2026-01-28",
+          "opponent": "Livingston",
+          "homeAway": "home",
+          "glScore": 12,
+          "oppScore": 15,
+          "result": "L",
+          "sourceUrl": "https://highschoolsports.nj.com/game/1065015"
+        },
+        {
+          "date": "2026-02-02",
+          "opponent": "Ridge",
+          "homeAway": "home",
+          "glScore": 11,
+          "oppScore": 16,
+          "result": "L",
+          "sourceUrl": "https://highschoolsports.nj.com/game/1094022"
+        },
+        {
+          "date": "2026-02-03",
+          "opponent": "Columbia",
+          "homeAway": "away",
+          "glScore": 8,
+          "oppScore": 19,
+          "result": "L",
+          "sourceUrl": "https://highschoolsports.nj.com/game/1091957"
+        },
+        {
+          "date": "2026-02-06",
+          "opponent": "Chatham",
+          "homeAway": "home",
+          "glScore": 8,
+          "oppScore": 19,
+          "result": "L",
+          "sourceUrl": "https://highschoolsports.nj.com/game/1085245"
+        },
+        {
+          "date": "2026-02-10",
+          "opponent": "Pingry",
+          "homeAway": "away",
+          "glScore": 11,
+          "oppScore": 16,
+          "result": "L",
+          "sourceUrl": "https://highschoolsports.nj.com/game/1095861",
+          "note": "2026 NJSIAA Girls Fencing - South, State Tournament, First Round"
+        },
+        {
+          "date": "2026-02-17",
+          "opponent": "Voorhees",
+          "homeAway": "home",
+          "glScore": 11,
+          "oppScore": 16,
+          "result": "L",
+          "sourceUrl": "https://highschoolsports.nj.com/game/1099394"
+        },
+        {
+          "date": "2026-02-26",
+          "opponent": "Bernards",
+          "homeAway": "away",
+          "glScore": 15,
+          "oppScore": 12,
+          "result": "W",
+          "sourceUrl": "https://highschoolsports.nj.com/game/1065014"
+        }
+      ],
+      "tournaments": [
+        {
+          "date": "2026-02-10",
+          "name": "2026 NJSIAA Girls Fencing - South, State Tournament, First Round",
+          "result": "L 11-16 vs Pingry (away)",
+          "sourceUrl": "https://highschoolsports.nj.com/game/1095861"
+        }
+      ]
+    },
+    {
+      "season": "2024-25",
+      "gender": "girls",
+      "record": "9-4",
+      "meets": [
+        {
+          "date": "2024-12-17",
+          "opponent": "Montclair Kimberley",
+          "homeAway": "home",
+          "glScore": 16,
+          "oppScore": 11,
+          "result": "W",
+          "sourceUrl": "https://highschoolsports.nj.com/game/979993"
+        },
+        {
+          "date": "2025-01-07",
+          "opponent": "Millburn",
+          "homeAway": "home",
+          "glScore": 11,
+          "oppScore": 16,
+          "result": "L",
+          "sourceUrl": "https://highschoolsports.nj.com/game/979941"
+        },
+        {
+          "date": "2025-01-10",
+          "opponent": "McNair",
+          "homeAway": "home",
+          "glScore": 19,
+          "oppScore": 8,
+          "result": "W",
+          "sourceUrl": "https://highschoolsports.nj.com/game/979918"
+        },
+        {
+          "date": "2025-01-17",
+          "opponent": "West Orange",
+          "homeAway": "away",
+          "glScore": 18,
+          "oppScore": 9,
+          "result": "W",
+          "sourceUrl": "https://highschoolsports.nj.com/game/979874"
+        },
+        {
+          "date": "2025-01-21",
+          "opponent": "Newark Academy",
+          "homeAway": "home",
+          "glScore": 17,
+          "oppScore": 10,
+          "result": "W",
+          "sourceUrl": "https://highschoolsports.nj.com/game/979800"
+        },
+        {
+          "date": "2025-01-23",
+          "opponent": "Mendham",
+          "homeAway": "away",
+          "glScore": 14,
+          "oppScore": 13,
+          "result": "W",
+          "sourceUrl": "https://highschoolsports.nj.com/game/979925"
+        },
+        {
+          "date": "2025-01-28",
+          "opponent": "Kent Place",
+          "homeAway": "home",
+          "glScore": 16,
+          "oppScore": 11,
+          "result": "W",
+          "sourceUrl": "https://highschoolsports.nj.com/game/980024"
+        },
+        {
+          "date": "2025-01-30",
+          "opponent": "Livingston",
+          "homeAway": "away",
+          "glScore": 6,
+          "oppScore": 21,
+          "result": "L",
+          "sourceUrl": "https://highschoolsports.nj.com/game/979939"
+        },
+        {
+          "date": "2025-02-04",
+          "opponent": "Columbia",
+          "homeAway": "home",
+          "glScore": 5,
+          "oppScore": 22,
+          "result": "L",
+          "sourceUrl": "https://highschoolsports.nj.com/game/979975"
+        },
+        {
+          "date": "2025-02-18",
+          "opponent": "Oak Knoll",
+          "homeAway": "home",
+          "glScore": 14,
+          "oppScore": 13,
+          "result": "W",
+          "sourceUrl": "https://highschoolsports.nj.com/game/979822"
+        },
+        {
+          "date": "2025-02-20",
+          "opponent": "Teaneck",
+          "homeAway": "away",
+          "glScore": 16,
+          "oppScore": 11,
+          "result": "W",
+          "sourceUrl": "https://highschoolsports.nj.com/game/995160",
+          "note": "2025 Girls Fencing Team Tournament, First Round"
+        },
+        {
+          "date": "2025-02-21",
+          "opponent": "West Essex",
+          "homeAway": "home",
+          "glScore": 18,
+          "oppScore": 9,
+          "result": "W",
+          "sourceUrl": "https://highschoolsports.nj.com/game/991273"
+        },
+        {
+          "date": "2025-02-24",
+          "opponent": "Hunterdon Central",
+          "homeAway": "away",
+          "glScore": 10,
+          "oppScore": 17,
+          "result": "L",
+          "sourceUrl": "https://highschoolsports.nj.com/game/995166",
+          "note": "2025 Girls Fencing Team Tournament, Quarterfinal Round"
+        }
+      ],
+      "tournaments": [
+        {
+          "date": "2025-02-20",
+          "name": "2025 Girls Fencing Team Tournament, First Round",
+          "result": "W 16-11 vs Teaneck (away)",
+          "sourceUrl": "https://highschoolsports.nj.com/game/995160"
+        },
+        {
+          "date": "2025-02-24",
+          "name": "2025 Girls Fencing Team Tournament, Quarterfinal Round",
+          "result": "L 10-17 vs Hunterdon Central (away)",
+          "sourceUrl": "https://highschoolsports.nj.com/game/995166"
+        }
+      ]
+    },
+    {
+      "season": "2023-24",
+      "gender": "girls",
+      "record": "6-7",
+      "meets": [
+        {
+          "date": "2023-12-21",
+          "opponent": "Oak Knoll",
+          "homeAway": "home",
+          "glScore": 13,
+          "oppScore": 14,
+          "result": "L",
+          "sourceUrl": "https://highschoolsports.nj.com/game/887291"
+        },
+        {
+          "date": "2024-01-02",
+          "opponent": "Montclair",
+          "homeAway": "away",
+          "glScore": 10,
+          "oppScore": 17,
+          "result": "L",
+          "sourceUrl": "https://highschoolsports.nj.com/game/887413"
+        },
+        {
+          "date": "2024-01-05",
+          "opponent": "Livingston",
+          "homeAway": "home",
+          "glScore": 8,
+          "oppScore": 19,
+          "result": "L",
+          "sourceUrl": "https://highschoolsports.nj.com/game/887415"
+        },
+        {
+          "date": "2024-01-08",
+          "opponent": "Bernards",
+          "homeAway": "away",
+          "glScore": 11,
+          "oppScore": 16,
+          "result": "L",
+          "sourceUrl": "https://highschoolsports.nj.com/game/887418"
+        },
+        {
+          "date": "2024-01-23",
+          "opponent": "Morris Hills",
+          "homeAway": "home",
+          "glScore": 10,
+          "oppScore": 17,
+          "result": "L",
+          "sourceUrl": "https://highschoolsports.nj.com/game/887386"
+        },
+        {
+          "date": "2024-01-25",
+          "opponent": "West Orange",
+          "homeAway": "away",
+          "glScore": 16,
+          "oppScore": 11,
+          "result": "W",
+          "sourceUrl": "https://highschoolsports.nj.com/game/887348"
+        },
+        {
+          "date": "2024-01-26",
+          "opponent": "West Essex",
+          "homeAway": "home",
+          "glScore": 18,
+          "oppScore": 9,
+          "result": "W",
+          "sourceUrl": "https://highschoolsports.nj.com/game/887317"
+        },
+        {
+          "date": "2024-01-29",
+          "opponent": "Millburn",
+          "homeAway": "away",
+          "glScore": 12,
+          "oppScore": 15,
+          "result": "L",
+          "sourceUrl": "https://highschoolsports.nj.com/game/887414"
+        },
+        {
+          "date": "2024-02-01",
+          "opponent": "McNair",
+          "homeAway": "home",
+          "glScore": 16,
+          "oppScore": 11,
+          "result": "W",
+          "sourceUrl": "https://highschoolsports.nj.com/game/887387"
+        },
+        {
+          "date": "2024-02-07",
+          "opponent": "Newark Academy",
+          "homeAway": "away",
+          "glScore": 13,
+          "oppScore": 14,
+          "result": "L",
+          "sourceUrl": "https://highschoolsports.nj.com/game/887271"
+        },
+        {
+          "date": "2024-02-08",
+          "opponent": "Kent Place",
+          "homeAway": "away",
+          "glScore": 15,
+          "oppScore": 12,
+          "result": "W",
+          "sourceUrl": "https://highschoolsports.nj.com/game/898579"
+        },
+        {
+          "date": "2024-02-15",
+          "opponent": "Mendham",
+          "homeAway": "home",
+          "glScore": 16,
+          "oppScore": 11,
+          "result": "W",
+          "sourceUrl": "https://highschoolsports.nj.com/game/887404"
+        },
+        {
+          "date": "2024-02-23",
+          "opponent": "Columbia",
+          "homeAway": "home",
+          "glScore": 14,
+          "oppScore": 13,
+          "result": "W",
+          "sourceUrl": "https://highschoolsports.nj.com/game/887435"
+        }
+      ],
+      "tournaments": []
+    }
+  ],
+  "gaps": [
+    "2024-25 boys: 2025-01-23 vs Mendham is published by NJ.com as 18-10 (totals 28 bouts, not 27); confirmed on the game page, recorded as published, not corrected.",
+    "2023-24 boys: no tournament entries of any kind (including NJSIAA state team tournament) appear on the NJ.com team page; whether GL took part is unknown from this source.",
+    "2023-24 girls: no tournament entries of any kind (including NJSIAA state team tournament) appear on the NJ.com team page; whether GL took part is unknown from this source.",
+    "All seasons, both genders: Cetrulo (boys) / Santelli (girls), district, and county/conference tournament placements are NOT listed on the NJ.com team pages and were not found elsewhere; only NJSIAA state team tournament rounds shown in the schedule are recorded. Team placements at those events are missing.",
+    "Opponents on the 2026-27 schedule with NO dual meet listed against GL in 2023-24, 2024-25 or 2025-26 (boys or girls) on NJ.com: Morris Knolls, Morris Catholic, Randolph.",
+    "Opponents with partial coverage: St. Benedict's (boys only: 2023-24 and 2025-26 state tournament; none for girls); McNair (boys 2023-24 and 2024-25, girls 2023-24 and 2024-25; none in 2025-26); Montclair (2023-24 and 2025-26 both genders; none in 2024-25).",
+    "Naming: NJ.com lists West Morris Mendham as 'Mendham'. 'Montclair' and 'Montclair Kimberley' are different schools; opponent names are kept exactly as NJ.com prints them.",
+    "homeAway is derived from NJ.com's 'vs' (home) / '@' (away) marker. On 2023-12-16 the boys have two '@' meets the same day (St. Benedict's and McNair); the actual venue was not checked.",
+    "Dates/opponents/scores come from the six season pages; only two individual game pages (1093822, 979490) were opened to confirm that NJ.com prints the winning score first. Other scores were oriented by that rule plus the W/L flag.",
+    "Only NJ.com was used; results were not cross-checked against the school athletics site or other sources. Meets a coach never reported to NJ.com would be absent, although each season's listed meets do add up to the record NJ.com displays."
+  ]
+}
