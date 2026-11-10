@@ -290,7 +290,7 @@
   function renderMap() {
     if (!window.L) { $('#map').innerHTML = '<p style="padding:16px">The map could not be loaded. Use the directions links in the schedule instead.</p>'; return; }
     const map = L.map('map', { scrollWheelZoom: false });
-    L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', { maxZoom: 19, subdomains: 'abcd', attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>' }).addTo(map);
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 19, attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors' }).addTo(map);
 
     // One pin per location, listing everything that happens there or involves that school.
     const pins = new Map();

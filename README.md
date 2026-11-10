@@ -13,7 +13,7 @@ Everything lives in `js/data.js`.
 
 ## Viewing locally
 
-Open `index.html` in a browser. No build step.
+Run `python3 -m http.server` in this folder and open http://localhost:8000. No build step. (Opening `index.html` directly works too, except that OpenStreetMap refuses to serve map tiles to pages opened from a file.)
 
 ## Publishing on GitHub Pages
 
@@ -25,6 +25,6 @@ Open `index.html` in a browser. No build step.
 - Schedule: team season-calendar slide, Nov 9, 2026 snapshot.
 - Past results: NJ.com high school sports (collected once, Nov 2026).
 - Tournament dates: NJSIAA 2026–27 fencing regulations. The Cetrulo and Santelli dates are projected from those regulations and are marked as such on the page.
-- Map tiles: CARTO, using OpenStreetMap data. School logos belong to their schools.
+- Map tiles: OpenStreetMap. School logos belong to their schools.
 
 The `research/` folder holds the raw research notes and is not used by the page.
